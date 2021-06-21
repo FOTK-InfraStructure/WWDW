@@ -7,5 +7,5 @@
 ### [ 기록요약 ]
 | Index | Date | Topic | 
 |:---:|:---:|:---|
-| 0 |  [**21. 06. 20.**](./210620.md) | |
+| 0 |  [**21. 06. 20.**](./210620.md) | `Webhook`, `gcloud alpha/beta`, `js delegation`, `Memcached`, `Go & Rust` |
 
